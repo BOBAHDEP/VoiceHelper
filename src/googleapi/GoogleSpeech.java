@@ -1,4 +1,4 @@
-package googleapi;
+package GoogleApi;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

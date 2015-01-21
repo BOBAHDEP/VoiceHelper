@@ -1,6 +1,6 @@
 package Audio;
 
-import googleapi.GoogleSpeech;
+import GoogleApi.GoogleSpeech;
 import javaFlacEncoder.FLACFileWriter;
 
 import javax.sound.sampled.*;
