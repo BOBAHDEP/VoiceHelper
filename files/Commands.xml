@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programm_description>
+    <command name = "блокнот" execution_command = "notepad"/>
+</programm_description>
